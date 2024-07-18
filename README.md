@@ -1,4 +1,4 @@
-#Cat Retro Game
+# Cat Retro 2D 100% JavaScript
 # Game_Javascript_2d_Arcade
 
 
