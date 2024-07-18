@@ -1,8 +1,8 @@
-# Juego_Javascript_2d
+# Juego_Javascript_2d_Arcade
 
 ![Animation2](https://github.com/user-attachments/assets/9a8fc04b-f38f-4209-a036-147dbc17489c)
 
-Este proyecto es un juego en 2D desarrollado con JavaScript. El juego está diseñado para demostrar las habilidades en desarrollo de juegos utilizando tecnologías web. 
+Este proyecto es un juego en 2D desarrollado con JavaScript estil Retro Arcade.
 
 ## Características
 
