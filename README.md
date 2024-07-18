@@ -23,6 +23,6 @@ Este proyecto es un juego en 2D desarrollado con JavaScript estilo Retro Arcade.
    - ** Flecha Arriba (↑): Mover hacia arriba
    - ** Flecha Abajo (↓): Mover hacia abajo
    - ** Flecha Izquierda (←): Mover hacia la izquierda
-    - **Flecha Derecha (→): Mover hacia la derecha
-    - **Barra Espaciadora: Saltar
+   - ** Flecha Derecha (→): Mover hacia la derecha
+   - ** Barra Espaciadora: Saltar
 
