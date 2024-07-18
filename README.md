@@ -16,19 +16,7 @@ Este proyecto es un juego en 2D desarrollado con JavaScript. El juego está dise
 - **CSS3**: Para el estilo y diseño visual.
 - **JavaScript**: Para la lógica del juego y las interacciones.
 - **Canvas API**: Para renderizar gráficos en 2D.
-- 
 
-Juego_Javascript_2d/
-│
-├── assets/
-│   ├── images/
-│   │   └── (imágenes del juego)
-│   ├── js/
-│   │   └── juego.js
-│   └── css/
-│       └── estilo.css
-│
-├── index.html
-└── README.md
+
 
 
