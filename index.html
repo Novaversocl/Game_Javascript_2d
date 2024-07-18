@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Otakid</title>
+    <style>
+      #game-container {
+        position: relative;
+        width: 600px;
+        height: 200px;
+        border: 1px solid black;
+        background-image: url("assets/img/Fondo.gif");
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+        background-position: center;
+      }
+
+      #cube {
+        width: 50px;
+        height: 50px;
+        /* background-color: red; */
+        position: absolute;
+        background-image: url("assets/img/Sentado_Ojo.png");
+        background-size: cover;
+      }
+
+      #raton {
+        position: absolute;
+        width: 50px;
+        height: 50px;
+        background-color: transparent;
+        transition: left 5s linear;
+      }
+
+      #floor {
+        width: 100%;
+        height: 10px;
+        background-color: rgb(49, 69, 67);
+        position: absolute;
+        bottom: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="game-container">
+      <div
+        id="life"
+        style="color: rgb(221, 255, 1); font-family: Arial, sans-serif"
+      >
+        Life = 1
+      </div>
+      <center>
+        <div
+          id="Time"
+          style="color: white; font-family: Arial, sans-serif"
+        ></div>
+      </center>
+      <div id="cube"></div>
+      <div id="floor"></div>
+      <div id="raton"></div>
+    </div>
+
+    <!-- <script src="assets/js/juego.js"></script> -->
+    <!-- <script src="assets/js/main.js"></script> -->
+    
+    <script src="assets/js/juego.js"></script>
+
+    <footer>
+      <p class="">Demo desarrollado por Juan Luis Estrada</p>
+    </footer>
+  </body>
+</html>
