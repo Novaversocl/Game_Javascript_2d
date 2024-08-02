@@ -3,27 +3,26 @@
 
 ![Animation2](https://github.com/user-attachments/assets/9a8fc04b-f38f-4209-a036-147dbc17489c)
 
-Este proyecto es un juego en 2D desarrollado con JavaScript estilo Retro Arcade.
+This project is a 2D game developed with JavaScript in a Retro Arcade style.
 
-## Características
+## Features
 
-- Gráficos en 2D
-- Controles de juego básicos
-- Mecánicas de juego simples
+- 2D graphics
+- Basic game controls
+- Simple game mechanics
 
-## Tecnologías Utilizadas
+## Technologies Used
 
-- **HTML5**: Para la estructura del juego y el lienzo (`canvas`).
-- **CSS3**: Para el estilo y diseño visual.
-- **JavaScript**: Para la lógica del juego y las interacciones.
-- **Canvas API**: Para renderizar gráficos en 2D.
+- **HTML5**: For the game structure and the canvas element.
+- **CSS3**: For styling and visual design.
+- **JavaScript**: For game logic and interactions.
+- **Canvas API**: For rendering 2D graphics.
 
+## Use the following keys to play:
 
-## Utiliza las siguientes teclas para jugar:
-
-   - ** Flecha Arriba (↑): Mover hacia arriba
-   - ** Flecha Abajo (↓): Mover hacia abajo
-   - ** Flecha Izquierda (←): Mover hacia la izquierda
-   - ** Flecha Derecha (→): Mover hacia la derecha
-   - ** Barra Espaciadora: Saltar
+- **Up Arrow (↑)**: Move up
+- **Down Arrow (↓)**: Move down
+- **Left Arrow (←)**: Move left
+- **Right Arrow (→)**: Move right
+- **Spacebar**: Jump
 
